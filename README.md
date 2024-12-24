@@ -1,1 +1,2 @@
-# student_database
+Запустить main.py
+использовать
